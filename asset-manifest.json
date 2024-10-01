@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Formularz/static/css/main.46d83172.css",
+    "main.js": "/Formularz/static/js/main.b23362bb.js",
+    "static/js/453.9c5ea457.chunk.js": "/Formularz/static/js/453.9c5ea457.chunk.js",
+    "index.html": "/Formularz/index.html",
+    "main.46d83172.css.map": "/Formularz/static/css/main.46d83172.css.map",
+    "main.b23362bb.js.map": "/Formularz/static/js/main.b23362bb.js.map",
+    "453.9c5ea457.chunk.js.map": "/Formularz/static/js/453.9c5ea457.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46d83172.css",
+    "static/js/main.b23362bb.js"
+  ]
+}
